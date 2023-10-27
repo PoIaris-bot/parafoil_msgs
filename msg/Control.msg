@@ -1,0 +1,3 @@
+int32 throttle
+int32 left_servo_angle
+int32 right_servo_angle
