@@ -1,3 +1,4 @@
+float64 timestamp
 uint8 id
 float32[3] angle
 float32[3] position
